@@ -1,0 +1,32 @@
+C:\Users\ASori\Documents\Codestack\24-25\Level 2\Mini Challenges\Endpoint - Add Two Numbers\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\ASori\Documents\Codestack\24-25\Level 2\Mini Challenges\Endpoint - Add Two Numbers\bin\Debug\net8.0\appsettings.json
+C:\Users\ASori\Documents\Codestack\24-25\Level 2\Mini Challenges\Endpoint - Add Two Numbers\bin\Debug\net8.0\Endpoint - Add Two Numbers.exe
+C:\Users\ASori\Documents\Codestack\24-25\Level 2\Mini Challenges\Endpoint - Add Two Numbers\bin\Debug\net8.0\Endpoint - Add Two Numbers.deps.json
+C:\Users\ASori\Documents\Codestack\24-25\Level 2\Mini Challenges\Endpoint - Add Two Numbers\bin\Debug\net8.0\Endpoint - Add Two Numbers.runtimeconfig.json
+C:\Users\ASori\Documents\Codestack\24-25\Level 2\Mini Challenges\Endpoint - Add Two Numbers\bin\Debug\net8.0\Endpoint - Add Two Numbers.dll
+C:\Users\ASori\Documents\Codestack\24-25\Level 2\Mini Challenges\Endpoint - Add Two Numbers\bin\Debug\net8.0\Endpoint - Add Two Numbers.pdb
+C:\Users\ASori\Documents\Codestack\24-25\Level 2\Mini Challenges\Endpoint - Add Two Numbers\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\ASori\Documents\Codestack\24-25\Level 2\Mini Challenges\Endpoint - Add Two Numbers\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\ASori\Documents\Codestack\24-25\Level 2\Mini Challenges\Endpoint - Add Two Numbers\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\ASori\Documents\Codestack\24-25\Level 2\Mini Challenges\Endpoint - Add Two Numbers\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\ASori\Documents\Codestack\24-25\Level 2\Mini Challenges\Endpoint - Add Two Numbers\obj\Debug\net8.0\Endpoint - Add Two Numbers.csproj.AssemblyReference.cache
+C:\Users\ASori\Documents\Codestack\24-25\Level 2\Mini Challenges\Endpoint - Add Two Numbers\obj\Debug\net8.0\Endpoint - Add Two Numbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASori\Documents\Codestack\24-25\Level 2\Mini Challenges\Endpoint - Add Two Numbers\obj\Debug\net8.0\Endpoint - Add Two Numbers.AssemblyInfoInputs.cache
+C:\Users\ASori\Documents\Codestack\24-25\Level 2\Mini Challenges\Endpoint - Add Two Numbers\obj\Debug\net8.0\Endpoint - Add Two Numbers.AssemblyInfo.cs
+C:\Users\ASori\Documents\Codestack\24-25\Level 2\Mini Challenges\Endpoint - Add Two Numbers\obj\Debug\net8.0\Endpoint - Add Two Numbers.csproj.CoreCompileInputs.cache
+C:\Users\ASori\Documents\Codestack\24-25\Level 2\Mini Challenges\Endpoint - Add Two Numbers\obj\Debug\net8.0\Endpoint - Add Two Numbers.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\ASori\Documents\Codestack\24-25\Level 2\Mini Challenges\Endpoint - Add Two Numbers\obj\Debug\net8.0\Endpoint - Add Two Numbers.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ASori\Documents\Codestack\24-25\Level 2\Mini Challenges\Endpoint - Add Two Numbers\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\ASori\Documents\Codestack\24-25\Level 2\Mini Challenges\Endpoint - Add Two Numbers\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\ASori\Documents\Codestack\24-25\Level 2\Mini Challenges\Endpoint - Add Two Numbers\obj\Debug\net8.0\staticwebassets\msbuild.Endpoint - Add Two Numbers.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\ASori\Documents\Codestack\24-25\Level 2\Mini Challenges\Endpoint - Add Two Numbers\obj\Debug\net8.0\staticwebassets\msbuild.build.Endpoint - Add Two Numbers.props
+C:\Users\ASori\Documents\Codestack\24-25\Level 2\Mini Challenges\Endpoint - Add Two Numbers\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Endpoint - Add Two Numbers.props
+C:\Users\ASori\Documents\Codestack\24-25\Level 2\Mini Challenges\Endpoint - Add Two Numbers\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Endpoint - Add Two Numbers.props
+C:\Users\ASori\Documents\Codestack\24-25\Level 2\Mini Challenges\Endpoint - Add Two Numbers\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\ASori\Documents\Codestack\24-25\Level 2\Mini Challenges\Endpoint - Add Two Numbers\obj\Debug\net8.0\scopedcss\bundle\Endpoint - Add Two Numbers.styles.css
+C:\Users\ASori\Documents\Codestack\24-25\Level 2\Mini Challenges\Endpoint - Add Two Numbers\obj\Debug\net8.0\Endpoint.EDDB39A4.Up2Date
+C:\Users\ASori\Documents\Codestack\24-25\Level 2\Mini Challenges\Endpoint - Add Two Numbers\obj\Debug\net8.0\Endpoint - Add Two Numbers.dll
+C:\Users\ASori\Documents\Codestack\24-25\Level 2\Mini Challenges\Endpoint - Add Two Numbers\obj\Debug\net8.0\refint\Endpoint - Add Two Numbers.dll
+C:\Users\ASori\Documents\Codestack\24-25\Level 2\Mini Challenges\Endpoint - Add Two Numbers\obj\Debug\net8.0\Endpoint - Add Two Numbers.pdb
+C:\Users\ASori\Documents\Codestack\24-25\Level 2\Mini Challenges\Endpoint - Add Two Numbers\obj\Debug\net8.0\Endpoint - Add Two Numbers.genruntimeconfig.cache
+C:\Users\ASori\Documents\Codestack\24-25\Level 2\Mini Challenges\Endpoint - Add Two Numbers\obj\Debug\net8.0\ref\Endpoint - Add Two Numbers.dll
